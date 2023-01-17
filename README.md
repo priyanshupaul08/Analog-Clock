@@ -15,7 +15,6 @@ Analog clocks help children with beginning concepts of fractions – looking at 
 ## Built using:
 - HTML
 - CSS
-- JS
 
 <p align="center">"Eating website for fun... nyom nyom nyom"</p>
 
